@@ -17,5 +17,4 @@
 
 Приложение станет доступным по адресу: `localhost:3000`
 
-## Контактные данные
-paleo1og@ya.ru
+Демо версия - [mykanobu.herokuapp.com](https://mykanobu.herokuapp.com/)
