@@ -9,7 +9,7 @@ end
 gem 'rails', '~> 5.1.4'
 
 # Используй гем puma в качестве сервера приложений
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 4.3'
 
 # Используйте гем Uglifier для сжатия ресурсов JavaScript
 gem 'uglifier', '>= 1.3.0'
